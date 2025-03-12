@@ -1,0 +1,39 @@
+.data
+{
+    margin: 0 auto;
+}
+
+.database-heading
+{
+    font-family: "Merienda", light;
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+}
+
+table{
+    
+}
+
+td, th
+{
+    font-size: 20px;
+    margin: 0px;
+    padding: 10px;
+    border: none;
+    color: #fff;
+    font-family: "Merienda", light;
+    border: 1px solid #fff;
+}
+
+.remove-btn
+{
+  font-size: 20px;
+  border-radius:7px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  padding: 1px 10px 1px 10px ;
+  font-family: "Merienda", light;
+  margin: 0;
+}

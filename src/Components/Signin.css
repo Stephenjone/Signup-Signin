@@ -1,0 +1,51 @@
+.signin{
+    margin: 0 auto;
+}
+
+.signin-heading
+{
+    font-family: "Merienda", light;
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+}
+
+.signin-form{
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.signin-email
+{
+    height: 20px;
+    width: 300px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    border: none;
+}
+
+.signin-password
+{
+    height: 20px;
+    width: 300px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    border: none;
+}
+
+.signin-btn
+{
+  font-size: 20px;
+  border-radius:7px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px 125px 6px 125px ;
+  font-family: "Merienda", light;
+  margin: 0;
+}

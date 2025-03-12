@@ -1,0 +1,15 @@
+.home 
+{
+  background-color: #578E7E;
+  max-width:100%;
+  height:auto;
+  padding: 100px;
+}
+
+.homepage
+{
+  font-size: 50px;
+  color: #fff;
+  text-align: center;
+  font-family: "Merienda", light;
+}
